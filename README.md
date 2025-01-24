@@ -11,7 +11,7 @@ A simple React-based currency converter application that uses the [ExchangeRate-
 - Stylish UI with background images and currency icons.
 - Built with React and styled using `styled-components`.
 - Dockerized for easy deployment.
-![image](https://github.com/user-attachments/assets/e008f78a-790a-4181-a3ca-75b518f8a69e)
+![image](https://github.com/user-attachments/assets/5dc43079-81ee-4073-88f5-7c9e558e5b57)
 
 ---
 
